@@ -41,6 +41,7 @@ public class _8_Double_Hill {
 
             //increasing triangle
             for (int j = 1; j <= i; j++){
+                //dont print the last star, skip it...
                 if(j==n)
                     continue;
                 System.out.print("* ");

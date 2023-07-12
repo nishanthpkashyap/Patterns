@@ -48,5 +48,6 @@ public class _8_Double_Hill {
             }
             System.out.println();
         }
+        System.out.println();
     }
 }
